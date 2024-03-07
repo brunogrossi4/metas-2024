@@ -1,4 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Micro+5&display=swap');
-.falha{
-    font-family: Micro 5;
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic+Coding&display=swap')
+</style> 
+
+body{
+    font-family: 'Nanum Gothic Coding';
 }
